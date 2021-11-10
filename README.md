@@ -60,6 +60,8 @@ Ejercicios Capitulo 1
 • Al realizar los cálculos nos percatamos que existe una amplia relación entre corriente y voltaje, ya que, para incrementar el flujo de corriente en un circuito, se debe elevar el voltaje con esto verificamos que la corriente es directamente proporcional al voltaje
 
 • Nos percatamos que existen varios tipos de batería y dependiendo del material con el cual estén echas varían en su tiempo de vida y voltaje sin embargo también existen muchas otras fuentes de potencia que se usan en laboratorios de electrónica.
+
 6. Bibliografia
+
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
