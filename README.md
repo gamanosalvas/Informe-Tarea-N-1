@@ -39,4 +39,9 @@ Específicos:
 
 2. Marco Teorico (Resumen)
  Capitulo 1
- 
+ ![image](https://user-images.githubusercontent.com/94025287/141034234-b42dbf0e-8c97-4c3c-84fc-b0b4e47ff0cd.png)
+Capitulo 2
+![image](https://user-images.githubusercontent.com/94025287/141034280-94bf226a-3119-4e74-a1d9-9625b93e0491.png)
+3. Explicación y Resolución de ejercicios o problemas
+Ejercicios Capitulo 1
+
