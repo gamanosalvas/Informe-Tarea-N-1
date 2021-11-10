@@ -1,10 +1,12 @@
 Informe-Tarea-N-1
+-----------------------------------------------------------------------------------------------------------------------------
 Universidad de las Fuerzas Armadas "ESPE"
+
 Fundamentos de Circuitos Electricos
 
 Tarea Nº1
 
-Integrantes: Mera Erick, Castro Albert, Sandoval Kevin
+Integrantes: Manosalvas Gabriel, Lucero Danilo, Allauca Steven
 
 Carrera: Ing. en Electrónica y Automatización
 
@@ -12,8 +14,8 @@ NRC: 10133
 
 Docente: Ing. Darwin Alulema
 
-Tema: Cap 1 y 2 del libro Analisis de Circuitos Electricos 4ta Edición de Allan H. Robbins y Wilmer C. Miller
-
+Tema: Cap 1 y 2 del libro Principios de circuitos electricos Floyd
+-----------------------------------------------------------------------------------------------------------------------------
 1. Objetivos
 Generales:
 
@@ -36,3 +38,5 @@ Específicos:
 • Diferenciar los diferentes tipos de fuentes de corriente que existen y cuál es su correcto uso en diferentes aparatos electrónicos.
 
 2. Marco Teorico (Resumen)
+ Capitulo 1
+ 
