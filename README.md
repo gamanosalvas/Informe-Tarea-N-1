@@ -64,17 +64,23 @@ Capítulo 2
 ![image](https://user-images.githubusercontent.com/94025287/141319505-69562a73-d6b0-4dff-9c4c-16434bcd07a1.png)
 ![image](https://user-images.githubusercontent.com/94025287/141319740-b9bdab6d-6e1a-400e-a58f-7e38a9ed08cc.png)
 ![image](https://user-images.githubusercontent.com/94025287/141320048-dbd6bbe5-da51-4260-951b-c644d3919dfb.png)
+
 33.En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 
 Respuesta: CIRCUITO (B), AL CERRAR LOS 2 INTERRUPTORES SE ENCIENDEN LAS 2 LAMPARAS.
 
 35.Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1
 ![image](https://user-images.githubusercontent.com/94025287/141322664-cac69e85-79ea-4e7d-b72d-e4e72deeadec.png)
+
 37.Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
 ![image](https://user-images.githubusercontent.com/94025287/141322728-e31f831a-3de4-422d-9cdc-6d2405921cc6.png)
 ![image](https://user-images.githubusercontent.com/94025287/141322751-d1a806b8-8758-4f60-bb9b-68f0a9fb9ae7.png)
+
 39.En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
 ![image](https://user-images.githubusercontent.com/94025287/141322835-d1503249-28c5-42a6-89ce-da4c493e567e.png)
+
 RESPUESTA: En la posición 1.- V1= 0 y V2= Vs
 41.En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 ![image](https://user-images.githubusercontent.com/94025287/141322932-682b8500-f68c-4b92-b202-984d50fd12ee.png)
