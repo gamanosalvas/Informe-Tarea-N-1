@@ -51,21 +51,6 @@ Capítulo 1
 ![image](https://user-images.githubusercontent.com/94025287/141222380-88e102f0-26c0-43d7-ad17-fb3a794d7df1.png)
 
 
-29. Sume las siguientes cantidades:
-
-	50mA+680uA			\mu={10}^{-6}
-50mA+0.68mA			
-50,68mA 
-
-	120kΩ+2.2MΩ			k={10}^3
-120kΩ+2200kΩ
-2320kΩ
-
-	0,02uF+3300pF			pF=1000000uF
-0,02uF+0,0033uF
-0,0233uF
-
-
 Capítulo 2
 
 
