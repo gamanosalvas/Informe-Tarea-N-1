@@ -53,6 +53,12 @@ Capítulo 1
 
 Capítulo 2
 
+![image](https://user-images.githubusercontent.com/94025287/141232761-91a2c39f-9c7a-4a26-8f2b-090a1c9ee95f.png)
+![image](https://user-images.githubusercontent.com/94025287/141232798-84f720ae-8cd0-4386-9664-1903640119ce.png)
+![image](https://user-images.githubusercontent.com/94025287/141232831-40ea89f7-a716-4c7f-8d3d-75ebb8f4b6bd.png)
+![image](https://user-images.githubusercontent.com/94025287/141232971-7697aa14-a250-4455-a678-33278fcca9f7.png)
+
+
 
 4. Video
 5. Conclusiones
