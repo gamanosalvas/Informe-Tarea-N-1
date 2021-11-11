@@ -1,6 +1,6 @@
 Informe-Tarea-N-1
 -----------------------------------------------------------------------------------------------------------------------------
-Universidad de las Fuerzas Armadas "ESPE"
+ Universidad de las Fuerzas Armadas "ESPE"
 
 Fundamentos de Circuitos Electricos
 
@@ -45,18 +45,12 @@ Capitulo 2
 3. Explicación y Resolución de ejercicios o problemas
 
 Ejercicios:
+
 Capítulo 1
-![image](https://user-images.githubusercontent.com/94025287/141222272-c5765c0b-aa4b-4557-a0e6-48e8f328908e.png)
-![image](https://user-images.githubusercontent.com/94025287/141222331-1c30a7be-9e19-4262-8e88-1fd32e60e188.png)
-![image](https://user-images.githubusercontent.com/94025287/141222380-88e102f0-26c0-43d7-ad17-fb3a794d7df1.png)
 
 
 Capítulo 2
 
-![image](https://user-images.githubusercontent.com/94025287/141232761-91a2c39f-9c7a-4a26-8f2b-090a1c9ee95f.png)
-![image](https://user-images.githubusercontent.com/94025287/141232798-84f720ae-8cd0-4386-9664-1903640119ce.png)
-![image](https://user-images.githubusercontent.com/94025287/141232831-40ea89f7-a716-4c7f-8d3d-75ebb8f4b6bd.png)
-![image](https://user-images.githubusercontent.com/94025287/141232971-7697aa14-a250-4455-a678-33278fcca9f7.png)
 
 
 
@@ -66,7 +60,6 @@ Capítulo 2
 
 • Nos dimos cuenta que en electrónica existen valores que varían mucho en tamaño y para una mejor comodidad de lectura y organización es mejor transfórmalos a notación de potencias de diez.
 
-• Observamos que existen dos tipos de diagramas a la hora de realizar la esquematización de un circuito, sin embargo, aunque los diagramas pictográficos son más fáciles de entender a la hora de dibujarlos es más difícil, mientras que los esquemáticos son mucho más fáciles de dibujarlos y con un poco de practica podremos entenderlos de manera correcta.
 
 • Aprendimos que no todos los materiales tienen la misma capacidad de movimiento de carga, que existen tres grandes clasificaciones que son conductores, semiconductores y aislantes y dependiendo de los que necesitemos podemos usar cualquiera de estos.
 
