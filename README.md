@@ -45,7 +45,9 @@ Capitulo 2
 3. Explicación y Resolución de ejercicios o problemas
 
 Ejercicios Capitulo 1
-
+![image](https://user-images.githubusercontent.com/94025287/141222272-c5765c0b-aa4b-4557-a0e6-48e8f328908e.png)
+![image](https://user-images.githubusercontent.com/94025287/141222331-1c30a7be-9e19-4262-8e88-1fd32e60e188.png)
+![image](https://user-images.githubusercontent.com/94025287/141222380-88e102f0-26c0-43d7-ad17-fb3a794d7df1.png)
 
 
 4. Video
