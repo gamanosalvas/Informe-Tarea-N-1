@@ -116,7 +116,6 @@ RESPUESTA:
 (c) Se conecta en paralelo a la resistencia R1
 
 
-
 4. Video
 
 https://youtu.be/CFz-Z0MKEQ4
