@@ -44,10 +44,29 @@ Capitulo 2
 ![image](https://user-images.githubusercontent.com/94025287/141034280-94bf226a-3119-4e74-a1d9-9625b93e0491.png)
 3. Explicación y Resolución de ejercicios o problemas
 
-Ejercicios Capitulo 1
+Ejercicios:
+Capítulo 1
 ![image](https://user-images.githubusercontent.com/94025287/141222272-c5765c0b-aa4b-4557-a0e6-48e8f328908e.png)
 ![image](https://user-images.githubusercontent.com/94025287/141222331-1c30a7be-9e19-4262-8e88-1fd32e60e188.png)
 ![image](https://user-images.githubusercontent.com/94025287/141222380-88e102f0-26c0-43d7-ad17-fb3a794d7df1.png)
+
+
+29. Sume las siguientes cantidades:
+
+	50mA+680uA			\mu={10}^{-6}
+50mA+0.68mA			
+50,68mA 
+
+	120kΩ+2.2MΩ			k={10}^3
+120kΩ+2200kΩ
+2320kΩ
+
+	0,02uF+3300pF			pF=1000000uF
+0,02uF+0,0033uF
+0,0233uF
+
+
+Capítulo 2
 
 
 4. Video
