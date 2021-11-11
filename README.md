@@ -6,7 +6,7 @@ Fundamentos de Circuitos Electricos
 
 Tarea Nº1
 
-Integrantes: Manosalvas Gabriel, Lucero Danilo, Allauca Steven
+Integrantes: Allauca Steven,Lucero Danilo, Manosalvas Gabriel
 
 Carrera: Ing. en Electrónica y Automatización
 
