@@ -86,6 +86,7 @@ RESPUESTA: En la posición 1.- V1= 0 y V2= Vs
 ![image](https://user-images.githubusercontent.com/94025287/141322932-682b8500-f68c-4b92-b202-984d50fd12ee.png)
 43.¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 ![image](https://user-images.githubusercontent.com/94025287/141322962-ba0d1e58-5435-473e-8eff-75901c5dcaf6.png)
+
 RESPUESTA: Voltaje= 25 [v]
 
 45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
