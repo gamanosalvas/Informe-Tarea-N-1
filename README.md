@@ -118,7 +118,11 @@ RESPUESTA:
 
 
 4. Video
-5. Conclusiones
+
+https://youtu.be/CFz-Z0MKEQ4
+
+
+6. Conclusiones
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
 
 • Nos dimos cuenta que en electrónica existen valores que varían mucho en tamaño y para una mejor comodidad de lectura y organización es mejor transfórmalos a notación de potencias de diez.
